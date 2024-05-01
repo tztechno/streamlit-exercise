@@ -14,6 +14,6 @@ git add .
 
 git commit -m "Initial commit"
 
-git remote add origin https://github.com/tztechno/streamlit-exercise
+git remote add origin https://github.com/tztechno/streamlit-parts
 
 git push -u origin master

@@ -6,6 +6,11 @@
 
 ###################################################################
 
+if st.button('Say hello'):
+    st.write('Hello World!')
+
+###################################################################
+
 if st.button("Classify"):
     label = classify_news(news_text)
     st.write(f"The category of this news is: {label}")
